@@ -97,7 +97,7 @@ The sentence immediately after the diagram instructions must reference the diagr
 Wherever the diagram is relevant later in the essay, reference it briefly — for example, "as the diagram shows, the movement from Y₁ to Y₂ reflects..."
 Do not write a conclusion.
 Do not include any evaluation, counterarguments, or "however" qualifications that challenge the main argument. This is an explanation question only.
-Target: 500–650 words of continuous prose.
+Target: 350–500 words of continuous prose.
 
 KAA paragraph structure:
 K — Knowledge: open with a topic sentence that directly addresses the question and defines the key concept precisely.
@@ -125,7 +125,7 @@ Write a final informed judgement paragraph. This is NOT a summary of what you ha
 AQA examiners explicitly distinguish between a summary conclusion (Level 4) and a genuine informed judgement (Level 5). Without this, full marks cannot be awarded.
 
 Include exactly two diagram instruction blocks total — one per body paragraph for the first two body paragraphs.
-Target: 950–1,200 words of continuous prose.
+Target: 800–100 words of continuous prose.
 
 ════════════════════════════════════════════════════════
 PART 4 — DIAGRAM INSTRUCTION FORMAT
@@ -136,9 +136,9 @@ Never draw a diagram. Never write a prose paragraph after the diagram instructio
 Use this exact format every time:
 
 ---
-📊 DIAGRAM: [Descriptive title]
+DIAGRAM:
 
-Title: [What to write at the top of the diagram]
+Title: [Name of the diagram being drawn]
 Vertical axis: [Exact label]
 Horizontal axis: [Exact label]
 
