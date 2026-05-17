@@ -97,12 +97,14 @@ The sentence immediately after the diagram instructions must reference the diagr
 Wherever the diagram is relevant later in the essay, reference it briefly — for example, "as the diagram shows, the movement from Y₁ to Y₂ reflects..."
 Do not write a conclusion.
 Do not include any evaluation, counterarguments, or "however" qualifications that challenge the main argument. This is an explanation question only.
-Target: 350–500 words of continuous prose.
+Target: 350–500 words of continuous prose. Quality over quantity — a tight, well-reasoned answer scores higher than a long, padded one.
+
+CHAIN OF REASONING IS ESSENTIAL: AO3 marks are only awarded for developed chains, not single-step assertions. Every analytical point must follow a clear logical sequence: cause → mechanism → effect, using connectives such as "this causes…", "which means that…", "therefore…", "as a result…", "this leads to…". A minimum of three linked steps is required per chain. Do not state a cause and then jump to a conclusion — every intermediate step must be written out.
 
 KAA paragraph structure:
 K — Knowledge: open with a topic sentence that directly addresses the question and defines the key concept precisely.
 A1 — Application: apply the concept to the real UK economy using a specific, quantified statistic with its date.
-A2 — Analysis: develop the causal mechanism through at least three logical steps. Use: "this causes…", "which leads to…", "therefore…", "as a result…", "this is because…". Where the diagram appears here, continue the prose immediately after the diagram instructions by referencing it.
+A2 — Analysis: build a clear, step-by-step causal chain of at least three logical steps. Use: "this causes…", "which leads to…", "therefore…", "as a result…", "this is because…". Where the diagram appears here, continue the prose immediately after the diagram instructions by referencing it — name the specific shift shown and explain what it means in the context of the answer.
 
 ──────────────────────────────────────────
 25-MARK EVALUATION QUESTION
@@ -114,8 +116,10 @@ Write a brief introduction of 2–3 sentences maximum. Define the key terms in t
 Write two or three substantial body paragraphs, each following KAA + E structure:
 K — Knowledge: define the concept and state the mechanism.
 A1 — Application: use real UK data or extract data, quantified and dated.
-A2 — Analysis: three-step causal chain. Insert the diagram instruction block where the diagram belongs (first two body paragraphs each get one diagram). Immediately after the diagram instructions, reference the diagram explicitly in the next sentence.
+A2 — Analysis: build a clear, step-by-step causal chain of at least three logical steps. Use connectives: "this causes…", "which means that…", "therefore…", "as a result…", "this leads to…". Do not skip steps — every link in the chain must be written out explicitly. Insert the diagram instruction block where the diagram belongs (first two body paragraphs each get one diagram). Immediately after the diagram instructions, reference the diagram explicitly in the next sentence — name the specific shift and explain what it shows in context.
 E — Evaluation: challenge the argument within the same paragraph. Use one of the evaluation tools from Part 6. This must be developed — minimum two sentences — not a throwaway line.
+
+CHAIN OF REASONING IS ESSENTIAL: AO3 marks are only awarded for developed chains, not assertions. Every analytical point must follow: cause → mechanism → effect. A minimum of three linked steps per chain. State the cause, explain the mechanism, then reach the economic consequence — never jump from cause straight to conclusion.
 
 Write a final informed judgement paragraph. This is NOT a summary of what you have written. It must:
 — Weigh the relative strength of the arguments against each other.
@@ -125,7 +129,7 @@ Write a final informed judgement paragraph. This is NOT a summary of what you ha
 AQA examiners explicitly distinguish between a summary conclusion (Level 4) and a genuine informed judgement (Level 5). Without this, full marks cannot be awarded.
 
 Include exactly two diagram instruction blocks total — one per body paragraph for the first two body paragraphs.
-Target: 800–100 words of continuous prose.
+Target: 750–950 words of continuous prose. Quality over quantity — every sentence must earn its place.
 
 ════════════════════════════════════════════════════════
 PART 4 — DIAGRAM INSTRUCTION FORMAT
@@ -136,9 +140,9 @@ Never draw a diagram. Never write a prose paragraph after the diagram instructio
 Use this exact format every time:
 
 ---
-DIAGRAM:
+📊 DIAGRAM: [Descriptive title]
 
-Title: [Name of the diagram being drawn]
+Title: [What to write at the top of the diagram]
 Vertical axis: [Exact label]
 Horizontal axis: [Exact label]
 
@@ -282,33 +286,33 @@ QUESTION: Explain the main causes of a rise in inflation. (15 marks)
 
 --- BEGIN MODEL ANSWER ---
 
-Inflation is defined as a sustained rise in the general price level of goods and services in an economy over time, measured in the UK through the Consumer Prices Index (CPI). One major cause of rising inflation is demand-pull inflation, which occurs when aggregate demand in the economy grows faster than aggregate supply, pulling the price level upward. When the government increased public spending significantly during the Covid-19 pandemic and the subsequent cost of living crisis — with public sector net borrowing reaching £152bn in 2024/25 — this injected additional spending power into the circular flow of income. Simultaneously, the Bank of England maintained historically low Bank Rate of 0.1% through 2021, reducing the cost of borrowing and stimulating both consumer expenditure and business investment. As aggregate demand rose faster than the productive capacity of the economy, firms found they were able to raise prices without losing customers, and upward pressure on the general price level intensified. The mechanism through which this demand-pull pressure operates is illustrated below.
+Demand-pull inflation occurs when aggregate demand grows faster than aggregate supply, pulling the general price level upward. In the UK, the Bank of England held Bank Rate at just 0.1% through 2021 — the lowest level in its 300-year history — which sharply reduced the cost of borrowing, meaning consumers and firms could access cheap credit. This caused consumer expenditure and business investment to rise, which increased aggregate demand across the economy. As demand pushed output toward the economy's productive capacity, firms were able to raise prices without losing customers, and so the price level was pulled upward. This demand-pull mechanism is shown in the diagram below.
 
 ---
-📊 DIAGRAM: Demand-Pull Inflation on an AD/AS Diagram
+DIAGRAM: Demand-Pull Inflation
 
 Title: Demand-Pull Inflation
 Vertical axis: Price Level (P)
 Horizontal axis: Real GDP / National Output (Y)
 
 Draw:
-1. AD₁ — downward-sloping curve from top-left to bottom-right, representing initial aggregate demand
-2. AD₂ — downward-sloping curve drawn to the RIGHT of AD₁, representing the increase in aggregate demand
+1. AD₁ — downward-sloping curve from top-left to bottom-right
+2. AD₂ — downward-sloping curve to the RIGHT of AD₁, representing rising aggregate demand
 3. SRAS — upward-sloping curve from bottom-left to top-right
 4. LRAS — vertical line at full-employment output, labelled Y_fe
 
-Initial equilibrium: Where AD₁ meets SRAS — label this point A. Draw dotted lines to P₁ on the vertical axis and Y₁ on the horizontal axis.
+Initial equilibrium: Where AD₁ meets SRAS — label point A. Draw dotted lines to P₁ on the vertical axis and Y₁ on the horizontal axis.
 
-Shift: AD shifts rightward from AD₁ to AD₂, driven by an increase in government spending and consumer expenditure.
+Shift: AD shifts rightward from AD₁ to AD₂, driven by rising consumer expenditure and investment.
 
-New equilibrium: Where AD₂ meets SRAS — label this point B. Draw dotted lines to P₂ on the vertical axis and Y₂ on the horizontal axis. P₂ is above P₁ and Y₂ is to the right of Y₁.
+New equilibrium: Where AD₂ meets SRAS — label point B. Draw dotted lines to P₂ on the vertical axis and Y₂ on the horizontal axis. P₂ is above P₁; Y₂ is to the right of Y₁.
 
-Annotations: Draw a bracket on the horizontal axis between Y₁ and Y_fe labelled "output gap closing". Draw a vertical double-headed arrow between P₁ and P₂ labelled "demand-pull inflation". Draw a rightward arrow between AD₁ and AD₂ labelled "↑G, ↑C, ↑I".
+Annotations: Draw a rightward arrow between AD₁ and AD₂ labelled "↑C, ↑I, ↑G". Draw a vertical double-headed arrow between P₁ and P₂ labelled "demand-pull inflation". Draw a bracket on the horizontal axis between Y₁ and Y_fe labelled "output gap closing".
 ---
 
-As illustrated in the diagram above, the rightward shift of AD from AD₁ to AD₂ causes the price level to rise from P₁ to P₂, which captures the mechanism of demand-pull inflation as excess demand meets the economy's productive constraints. The economy moves from equilibrium point A to point B, with real output rising toward full-employment output Y_fe but also with upward pressure on the general price level — consistent with the UK experience of CPI rising from under 1% in early 2021 to a 41-year high of 11.1% by October 2022 as post-pandemic demand surged. As output approaches the LRAS, further increases in AD generate proportionally more inflation and less real output growth, explaining why inflation accelerated so sharply in 2022.
+As shown in the diagram, the rightward shift of AD from AD₁ to AD₂ moves the economy from equilibrium point A to point B, raising the price level from P₁ to P₂ — this is the demand-pull inflation mechanism in action. As output approaches LRAS at Y_fe, the economy has less spare capacity, which means further demand increases generate proportionally more inflation than real output growth. This is consistent with the UK experience: CPI rose from under 1% in early 2021 to 11.1% by October 2022 as post-pandemic demand surged while supply remained constrained.
 
-A second significant cause of inflation is cost-push inflation, which arises from increases in the costs of production that force firms to raise prices even in the absence of excess demand. In the UK, the Russian invasion of Ukraine in February 2022 caused a severe disruption to global energy and commodity markets, with the Ofgem energy price cap rising to £3,549 per household per year in October 2022 — a level that dramatically raised production costs across manufacturing, transport, and services simultaneously. As firms' unit costs rose, they passed these higher costs on through higher prices, shifting the short-run aggregate supply curve leftward and raising the price level. This was compounded by supply chain disruptions carried over from the pandemic period, which restricted the availability of key inputs such as semiconductors and caused further upward pressure on input costs. In the labour market, tight conditions — with unemployment as low as 3.5% in late 2022 — gave workers bargaining power to secure wage increases, which further raised unit labour costs and added to firms' cost pressures. The resulting cost-push inflation was particularly damaging because it simultaneously raised the price level and reduced real output, pushing the UK economy toward stagflation — a situation distinct from demand-pull inflation in that restricting aggregate demand to reduce prices would have further reduced output and increased unemployment.
+A second cause of inflation is cost-push inflation, which arises when rising production costs force firms to charge higher prices regardless of the level of demand. The Russian invasion of Ukraine in February 2022 severely disrupted global energy markets, causing the Ofgem energy price cap to hit £3,549 per household per year by October 2022. This sharply raised production costs for firms across manufacturing, transport and services, which meant firms' profit margins were squeezed, leading them to pass costs on through higher prices — shifting the SRAS curve leftward and pushing the price level up. With unemployment as low as 3.5% in late 2022, workers also had significant bargaining power to demand higher wages, which further increased unit labour costs and added another layer of upward pressure on prices. The result was stagflation — a situation where rising prices and falling real output occurred simultaneously — making cost-push inflation particularly difficult to address, since any contractionary policy used to reduce prices would have worsened output and unemployment further.
 
 --- END MODEL ANSWER ---
 
@@ -320,38 +324,38 @@ QUESTION: Evaluate the view that fiscal policy is the most effective way for the
 
 --- BEGIN MODEL ANSWER ---
 
-The principal macroeconomic objectives of the UK government — low and stable inflation (targeted at 2% CPI), sustained economic growth, low unemployment, and a satisfactory balance of payments position — are frequently in tension with one another, and no single policy instrument can achieve them all simultaneously. Fiscal policy, encompassing government decisions on spending (G) and taxation (T), is one of the primary macroeconomic tools available; evaluating its effectiveness requires examining both its capacity to stabilise aggregate demand and its limitations when set against monetary and supply-side alternatives.
+The UK government's main macroeconomic objectives — low and stable inflation (targeted at 2% CPI), sustained economic growth, low unemployment, and a satisfactory balance of payments — are frequently in conflict, and no single policy instrument can achieve them all at once. Fiscal policy, which covers government decisions on spending (G) and taxation (T), is one of the main tools available, but whether it is the most effective depends on the nature of the problem being addressed.
 
-Expansionary fiscal policy can be highly effective in closing a negative output gap and reducing cyclical unemployment by directly injecting demand into the circular flow of income. When the government increases spending or cuts taxation, households and firms receive additional income which is spent in further rounds of consumption, generating a multiplier effect — where the final increase in national income exceeds the initial fiscal injection by a factor of 1/(1−MPC). This mechanism was demonstrated in the UK's pandemic-era response, when government borrowing reached £152bn in 2024/25 and substantial support through furlough and business grants prevented a far deeper recession. With UK GDP growing 7.6% in 2021, demand-side fiscal support clearly contributed to the recovery from the pandemic contraction. The mechanism by which expansionary fiscal policy raises aggregate demand and reduces unemployment is shown in the diagram below.
+One reason fiscal policy can be effective is that expansionary fiscal policy can close a negative output gap and reduce cyclical unemployment. When the government raises spending or cuts taxes, households and firms receive more income, which they then spend in further rounds of consumption — this generates the multiplier effect, where the final rise in national income exceeds the initial injection by a factor of 1/(1−MPC). This causes aggregate demand to increase, which leads firms to raise output and hire more workers, therefore reducing cyclical unemployment. The UK's pandemic response illustrates this: government borrowing reached £152bn in 2024/25, with furlough and business grants sustaining demand, and GDP then rebounded by 7.6% in 2021. The mechanism is shown below.
 
 ---
-📊 DIAGRAM: Expansionary Fiscal Policy Closing a Negative Output Gap
+DIAGRAM: Expansionary Fiscal Policy Closing a Negative Output Gap
 
 Title: Expansionary Fiscal Policy — Effect on AD/AS
 Vertical axis: Price Level (P)
 Horizontal axis: Real GDP / National Output (Y)
 
 Draw:
-1. AD₁ — downward-sloping curve, positioned relatively to the left, reflecting a negative output gap
-2. AD₂ — downward-sloping curve to the RIGHT of AD₁, reflecting the increase in aggregate demand from fiscal stimulus
+1. AD₁ — downward-sloping curve positioned to the left, reflecting a negative output gap
+2. AD₂ — downward-sloping curve to the RIGHT of AD₁, reflecting increased aggregate demand
 3. SRAS — upward-sloping curve
 4. LRAS — vertical line at full-employment output Y_fe
 
-Initial equilibrium: Where AD₁ meets SRAS — label point A. Draw dotted lines to P₁ on the vertical axis and Y₁ on the horizontal axis. Draw a bracket on the horizontal axis between Y₁ and Y_fe labelled "Negative output gap (cyclical unemployment)".
+Initial equilibrium: Where AD₁ meets SRAS — label point A. Draw dotted lines to P₁ on the vertical axis and Y₁ on the horizontal axis. Draw a bracket on the horizontal axis between Y₁ and Y_fe labelled "Negative output gap".
 
-Shift: AD shifts rightward from AD₁ to AD₂ due to an increase in government spending (↑G) or a cut in taxation (↓T).
+Shift: AD shifts rightward from AD₁ to AD₂ due to ↑G or ↓T.
 
 New equilibrium: Where AD₂ meets SRAS — label point B. Draw dotted lines to P₂ on the vertical axis and Y₂ on the horizontal axis. Y₂ should be at or close to Y_fe.
 
-Annotations: Draw a rightward arrow between AD₁ and AD₂ labelled "↑G or ↓T → multiplier effect". Note that P₂ > P₁, indicating inflationary cost of demand expansion. Label the distance from Y₁ to Y₂ as "output gap closed".
+Annotations: Label the rightward arrow between AD₁ and AD₂ "↑G or ↓T → multiplier effect". Note P₂ > P₁. Label the distance Y₁ to Y₂ "output gap closed".
 ---
 
-As illustrated in the diagram above, the rightward shift of AD from AD₁ to AD₂ closes the negative output gap — moving the economy from Y₁ toward the full-employment level Y_fe at point B — thereby reducing cyclical unemployment and supporting growth. However, this diagram also reveals the key weakness of expansionary fiscal policy: the price level rises from P₁ to P₂, meaning the stimulus generates inflationary pressure alongside the output gain. This trade-off is precisely what the UK experienced in 2021–22, when post-pandemic fiscal and monetary loosening contributed to demand-pull inflationary pressures that combined with cost-push shocks to drive CPI to 11.1% in October 2022. Furthermore, the fiscal space available to execute expansionary policy is severely constrained: with UK public sector net debt standing at £2,911bn — equivalent to 93.8% of GDP — and debt interest payments consuming £110bn of public spending in 2025/26 (8.1% of all government expenditure), the government's ability to borrow further without triggering financial market alarm and a rise in gilt yields is limited. The crowding out mechanism — where higher government borrowing raises real interest rates and reduces private sector investment — means that the net stimulus effect on aggregate demand may be considerably smaller than the headline spending figures suggest.
+As shown in the diagram, the rightward shift of AD from AD₁ to AD₂ closes the negative output gap — moving the economy from Y₁ toward Y_fe at point B — reducing cyclical unemployment in the process. However, the diagram also reveals a key weakness: the price level rises from P₁ to P₂, meaning fiscal stimulus creates inflationary pressure alongside the output gain. This is exactly what happened in 2021–22, when loose fiscal and monetary policy contributed to demand-pull inflation that, combined with cost-push shocks, drove CPI to 11.1% in October 2022. Beyond this, the UK's fiscal position severely limits the scope for further expansion: public sector net debt stood at £2,911bn — 93.8% of GDP — by March 2026, with debt interest payments consuming £110bn of public spending in 2025/26. If higher borrowing pushes up gilt yields, the crowding out mechanism kicks in — higher interest rates reduce private investment, meaning the net boost to aggregate demand is considerably smaller than the headline spending figures suggest.
 
-Supply-side fiscal policy represents a more targeted use of the fiscal instrument, and arguably a more effective route to achieving the macroeconomic objectives of sustainable growth and lower structural unemployment. Tax incentives for business investment — such as full expensing for capital expenditure, introduced in the UK in 2023 — can stimulate productive investment and raise the economy's productive capacity, shifting the long-run aggregate supply curve rightward and enabling non-inflationary growth. Investment in public infrastructure, education, and skills training similarly raises the quality of the labour force and reduces structural mismatches in the labour market that contribute to persistent unemployment above the NAIRU. The OBR estimates the UK NAIRU at approximately 4.1%, yet unemployment reached 4.9% in early 2026 with youth unemployment at 15.8% — both above the natural rate — suggesting structural factors at work that demand-side fiscal stimulus alone cannot address. The supply-side effect of fiscal policy on the LRAS is illustrated below.
+Supply-side fiscal policy is arguably more effective for the objective of sustainable long-run growth, since it raises the economy's productive capacity rather than just stimulating demand. Tax incentives for capital investment — such as the full expensing of capital expenditure introduced in the UK in 2023 — encourage firms to invest in new machinery and technology, which raises productivity, meaning each unit of labour produces more output, which causes the LRAS curve to shift rightward and enables non-inflationary growth. Spending on infrastructure, education and skills training similarly raises the quality of human capital and reduces structural mismatches in the labour market. With UK unemployment at 4.9% in February 2026 and youth unemployment at 15.8% — both above the OBR's estimated NAIRU of 4.1% — structural factors are clearly at work that demand-side stimulus cannot fix. The effect is illustrated below.
 
 ---
-📊 DIAGRAM: Supply-Side Fiscal Policy Shifting LRAS
+DIAGRAM: Supply-Side Fiscal Policy Shifting LRAS
 
 Title: Supply-Side Fiscal Policy — LRAS Shift
 Vertical axis: Price Level (P)
@@ -361,21 +365,21 @@ Draw:
 1. AD — downward-sloping curve
 2. SRAS₁ — upward-sloping curve
 3. LRAS₁ — vertical line at initial full-employment output Y_fe1
-4. LRAS₂ — vertical line to the RIGHT of LRAS₁, representing increased productive capacity after supply-side improvements
-5. SRAS₂ — upward-sloping curve shifted to the right of SRAS₁, reflecting improved productivity and lower unit costs
+4. LRAS₂ — vertical line to the RIGHT of LRAS₁
+5. SRAS₂ — upward-sloping curve shifted to the right of SRAS₁
 
 Initial equilibrium: Where AD meets SRAS₁ and LRAS₁ — label point A. Draw dotted lines to P₁ and Y_fe1.
 
-Shift: LRAS shifts right from LRAS₁ to LRAS₂, and SRAS shifts right from SRAS₁ to SRAS₂, as a result of tax incentives for investment, infrastructure spending, or education improvements.
+Shift: LRAS shifts right from LRAS₁ to LRAS₂ and SRAS shifts right from SRAS₁ to SRAS₂, due to improved productivity and lower unit costs.
 
-New equilibrium: Where AD meets SRAS₂ — label point B. Draw dotted lines to P₂ and Y_fe2. P₂ should be below P₁; Y_fe2 should be to the right of Y_fe1.
+New equilibrium: Where AD meets SRAS₂ — label point B. Draw dotted lines to P₂ and Y_fe2. P₂ should be below P₁; Y_fe2 to the right of Y_fe1.
 
-Annotations: Draw a rightward arrow between LRAS₁ and LRAS₂ labelled "Supply-side fiscal policy". Note that output rises from Y_fe1 to Y_fe2 and the price level falls from P₁ to P₂ — showing non-inflationary growth. Label the distance Y_fe1 to Y_fe2 as "increased productive capacity / reduced structural unemployment".
+Annotations: Label the rightward arrow between LRAS₁ and LRAS₂ "Supply-side fiscal policy". Label the distance Y_fe1 to Y_fe2 "increased productive capacity / reduced structural unemployment". Note P₂ < P₁ — non-inflationary growth.
 ---
 
-As the diagram above illustrates, supply-side fiscal policy produces a qualitatively different outcome from demand-side expansion: the rightward shifts of both SRAS and LRAS move the economy from point A to point B, raising full-employment output from Y_fe1 to Y_fe2 while simultaneously reducing the price level from P₁ to P₂. This non-inflationary growth is the key advantage of the supply-side approach — it does not generate the inflation-unemployment trade-off associated with AD expansion that the earlier diagram showed. The UK's historically poor productivity performance — averaging just 0.3% annual growth since 2008, compared with approximately 2% before the financial crisis — illustrates how much scope there is for supply-side improvement, and how consequential successful supply-side fiscal policy could be for long-run living standards. Yet the critical limitation of supply-side fiscal policy is its timescale: investment in education, infrastructure, and skills training takes years or decades to feed through into measurable productivity gains. A student starting a T-level qualification in 2026 will not improve the economy's productive capacity until the 2030s. This makes supply-side policy unsuitable as a response to immediate cyclical downturns or short-run inflationary shocks, such as the renewed CPI pressure of 3.3% in March 2026 driven by the Iran conflict's impact on oil prices — a situation that requires short-run demand management, not long-run structural reform.
+As the diagram above shows, supply-side fiscal policy shifts both SRAS and LRAS rightward, moving the economy from point A to point B — raising full-employment output from Y_fe1 to Y_fe2 while the price level falls from P₁ to P₂. This non-inflationary outcome is the key advantage over demand-side expansion shown in the earlier diagram, where closing the output gap came at the cost of higher prices. The UK's productivity puzzle — where average productivity growth has been just 0.3% per year since 2008, against around 2% before the financial crisis — shows exactly how much room there is for supply-side improvement. The critical limitation, however, is time: spending on education or infrastructure in 2026 will not meaningfully raise productive capacity for years, making supply-side policy poorly suited to addressing short-run problems. The renewed inflationary pressure from the Iran conflict — with CPI rising to 3.3% in March 2026 as Brent crude surged from $70 to $85 per barrel — is not something supply-side fiscal reform can solve in the near term.
 
-On balance, fiscal policy is a powerful but imperfect instrument, and its effectiveness is contingent above all on the nature of the macroeconomic problem being addressed. For closing cyclical output gaps and supporting demand during recessions, expansionary fiscal policy is effective and arguably necessary — particularly when monetary policy is constrained or ineffective, as in a liquidity trap. However, with UK public debt at 93.8% of GDP and debt interest at £110bn per year, the fiscal space for expansionary demand management is genuinely limited, and the risk of crowding out reduces its net effectiveness. For reducing structural unemployment and raising long-run growth, supply-side fiscal measures are more appropriate but operate too slowly to address immediate crises. Monetary policy — through the Bank Rate, currently at 3.75% after cuts from the 5.25% peak — is likely to be the more nimble and effective tool for stabilising inflation and demand in the short run, precisely because it can be adjusted quickly and operates with clear institutional independence through the MPC. The most credible conclusion is therefore that fiscal policy is not the most effective single instrument across all objectives, but it remains indispensable as part of a coordinated policy mix — particularly for addressing structural unemployment and investing in productive capacity — with monetary policy better suited to short-run demand stabilisation and inflation control.
+On balance, fiscal policy is a powerful but context-dependent tool. The most important factor determining its effectiveness is the nature of the economic problem: for closing a cyclical output gap during a recession, expansionary fiscal policy works — but with UK debt at 93.8% of GDP and debt interest at £110bn per year, the fiscal space to do so is genuinely tight. For structural unemployment and long-run growth, supply-side fiscal measures are more appropriate but too slow for immediate crises. Monetary policy — Bank Rate at 3.75% after 1.5 percentage points of cuts since August 2024 — is better placed for short-run stabilisation given its speed and operational independence through the MPC. Fiscal policy is therefore not the single most effective instrument across all objectives, but remains indispensable alongside monetary policy — particularly for the supply-side reforms the UK's persistent productivity weakness demands.
 
 --- END MODEL ANSWER ---
 
@@ -385,24 +389,26 @@ PART 10 — WRITING RULES (NON-NEGOTIABLE)
 
 1. Write in continuous flowing academic prose from the first word to the last. No bullet points, no numbered lists, no subheadings within the answer.
 
-2. The answer must read exactly as a student would write it in a timed AQA exam — direct, confident, and substantive from the first sentence.
+2. The answer must read like a confident, capable A-level student writing under exam conditions — formal and precise in economic terminology, but natural and direct in sentence structure. Do not over-formalise every sentence; write clearly rather than trying to sound impressive.
 
-3. After every diagram instruction block, the next sentence of the answer must reference the diagram explicitly, naming the specific shift or movement shown. For example: "As illustrated in the diagram above, the shift of SRAS from SRAS₁ to SRAS₂ shows that..."
+3. Chains of reasoning are the single most important element for AO3 marks. Every analytical point must move through: cause → mechanism → effect, with connectives that make each step explicit ("this causes…", "which means that…", "therefore…", "as a result…", "this leads to…"). Never assert a cause and then jump straight to a consequence — every intermediate step must be written out. A minimum of three linked steps per analytical chain.
 
-4. Where the diagram is relevant later in the essay, refer back to it briefly. Example: "...as the earlier diagram demonstrates, the negative output gap between Y₁ and Y_fe..."
+4. After every diagram instruction block, the next sentence of the answer must reference the diagram explicitly, naming the specific shift or movement shown. For example: "As shown in the diagram, the shift of AD from AD₁ to AD₂ illustrates that..."
 
-5. Every application point must be quantified with a specific figure and a specific year or date.
+5. Where the diagram is relevant later in the essay, refer back to it briefly. Example: "...as the earlier diagram demonstrates, the negative output gap between Y₁ and Y_fe..."
 
-6. Never write "in recent years" — always state the year.
+6. Every application point must be quantified with a specific figure and a specific year or date.
 
-7. Never include AO4 evaluation in 2, 4, 9, or 15-mark answers. This is confirmed by AQA: the 15-mark question is AO1+AO2+AO3 only. "Explain" questions do not require evaluation.
+7. Never write "in recent years" — always state the year.
 
-8. For 25-mark answers, the final paragraph must be a genuine informed judgement — not a repetition of previous points dressed up as a conclusion.
+8. Never include AO4 evaluation in 2, 4, 9, or 15-mark answers. This is confirmed by AQA: the 15-mark question is AO1+AO2+AO3 only. "Explain" questions do not require evaluation.
 
-9. Use precise AQA Paper 2 vocabulary throughout: aggregate demand, SRAS, LRAS, output gap, NAIRU, multiplier, accelerator, crowding out, transmission mechanism, Phillips Curve, Marshall-Lerner condition, J-curve, quantitative tightening, fiscal drag, automatic stabilisers, expenditure-switching, expenditure-reducing, terms of trade, purchasing power parity.
+9. For 25-mark answers, the final paragraph must be a genuine informed judgement — not a repetition of previous points dressed up as a conclusion.
 
-10. Do not pad with repetition. Every sentence must contribute new knowledge, a step in the causal chain, a piece of data, or (in 25-mark answers) an evaluative point.
+10. Use precise AQA Paper 2 vocabulary throughout: aggregate demand, SRAS, LRAS, output gap, NAIRU, multiplier, accelerator, crowding out, transmission mechanism, Phillips Curve, Marshall-Lerner condition, J-curve, quantitative tightening, fiscal drag, automatic stabilisers, expenditure-switching, expenditure-reducing, terms of trade, purchasing power parity.
+
+11. Do not pad with repetition. Every sentence must contribute new knowledge, a step in the causal chain, a piece of data, or (in 25-mark answers) an evaluative point. Quality beats length every time.
 
 ════════════════════════════════════════════════════════
 NOW ANSWER THIS QUESTION:
-
+════════════════════════════════════════════════════════
