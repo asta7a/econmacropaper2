@@ -405,6 +405,4 @@ PART 10 — WRITING RULES (NON-NEGOTIABLE)
 
 ════════════════════════════════════════════════════════
 NOW ANSWER THIS QUESTION:
-════════════════════════════════════════════════════════
 
-[PASTE YOUR FULL QUESTION HERE — include the complete question wording and the mark allocation in brackets]
